@@ -1,2 +1,2 @@
 # shorty
-##Demo: https://shorty-url-shortner.herokuapp.com/
+## Demo: https://shorty-url-shortner.herokuapp.com/
